@@ -1,0 +1,27 @@
+
+# Program based on Input and Output
+
+name = input("Enter your name: ")
+course = input("Enter your course: ")
+section = input("Enter your section: ")
+roll_no = input("Enter your roll number: ")
+college = input("Enter your college name: ")
+
+print("\n----- Student Details -----")
+print("Hello", name)
+print("Name:", name)
+print("Course:", course)
+print("Section:", section)
+print("Roll Number:", roll_no)
+print("College Name:", college)
+
+
+
+
+
+
+
+
+
+
+
